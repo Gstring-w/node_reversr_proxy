@@ -1,0 +1,18 @@
+{
+  "name": "node_server_bankend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "http-proxy-middleware": "^0.19.1",
+    "request": "^2.88.0"
+  }
+}
